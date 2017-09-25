@@ -17,7 +17,7 @@
 */
 
 #ifndef _DISCRETIZATED_CONTEXT_H
-#define _DISCRETIZATEDL_CONTEXT_H
+#define _DISCRETIZATED_CONTEXT_H
 
 #include <synthetic/SyntheticContext.h>
 
