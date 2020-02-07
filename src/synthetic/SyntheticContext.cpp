@@ -18,7 +18,7 @@
 
 #include <iostream>
 #include <cmath>
-
+#include <cstring>
 #include <random/RandomHandler.h>
 #include <progress/ProgressHandler.h>
 #include <synthetic/SyntheticContext.h>
