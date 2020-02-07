@@ -20,6 +20,7 @@
 
 #include <cstdio>
 #include <cstdlib>
+#include <cstring>
 #include <iostream>
 #include <unistd.h>
 #include <log/LogHandler.h>
